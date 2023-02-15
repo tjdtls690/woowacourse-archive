@@ -15,9 +15,9 @@
 
 | Project | Period | Repository | Pull Request | Learning Log |
 |:---:|:---:|:---:|:---:|:---:|
-|다리 건너기|`2022-11-16` ~ `2021-12-22`|[repository](https://bit.ly/3U5NLAR)|[PR](https://bit.ly/3U5NLAR)|[learning log](https://bit.ly/3jOeg1Z)|
-|로또|`2022-11-09` ~ `2022-11-15`|[repository](https://bit.ly/3U5NLAR)|[PR](https://bit.ly/412ahj4)|[learning log](https://bit.ly/3Oahzeh)|
-|숫자 야구 게임|`2022-11-02` ~ `2022-11-08`|[repository](https://bit.ly/3U5NLAR)|[PR](https://bit.ly/3EevwEU)|[learning log](https://bit.ly/3XpsZOr)|
+|다리 건너기|`2022-11-16` ~ `2021-12-22`|[repository](https://bit.ly/3lA4Ibo)|[PR](https://bit.ly/3U5NLAR)|[learning log](https://bit.ly/3jOeg1Z)|
+|로또|`2022-11-09` ~ `2022-11-15`|[repository](https://bit.ly/3CEy3Gl)|[PR](https://bit.ly/412ahj4)|[learning log](https://bit.ly/3Oahzeh)|
+|숫자 야구 게임|`2022-11-02` ~ `2022-11-08`|[repository](https://bit.ly/3lv4kuL)|[PR](https://bit.ly/3EevwEU)|[learning log](https://bit.ly/3XpsZOr)|
 |온보딩|`2022-10-26` ~ `2022-11-01`|[repository](https://bit.ly/3xnfyDW)|[PR](https://bit.ly/3XpbGNC)|[learning log](https://bit.ly/3Xvn0rk)|
 
 <br>
