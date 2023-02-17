@@ -10,6 +10,10 @@
 
 <br>
 
+📑 [우아한테크코스 5기 최종 합격 후기](https://bit.ly/3W9icaw)
+
+<br>
+
 ## 📕 Precourse
 
 | Project | Period | Repository | Pull Request | Learning Log |
@@ -20,5 +24,3 @@
 |온보딩|`2022-10-26` ~ `2022-11-01`|[repository](https://bit.ly/3xnfyDW)|[PR](https://bit.ly/3XpbGNC)|[learning log](https://bit.ly/3Xvn0rk)|
 
 <br>
-
-📑 [우아한테크코스 지원 최종 후기](https://bit.ly/3W9icaw)
