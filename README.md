@@ -4,10 +4,9 @@
 
 | Project | Period | Repository | Pull Request & Review | Learning Log |
 |:-----:|:-----:|:---:|:---:|:---:|
-|로또 <br> 2단계|`2022-02-24` ~ `2022-03-07`|[repository 2](https://github.com/yeon-06/java-lotto/tree/step2)|[pull request 2](https://github.com/woowacourse/java-lotto/pull/454)|[learning log 2](https://yeonyeon.tistory.com/201)|
-|로또 <br> 1단계|`2022-02-22` ~ `2022-02-24`|[repository 1](https://github.com/yeon-06/java-lotto/tree/step1)|[pull request 1](https://github.com/woowacourse/java-lotto/pull/391)|[learning log 1](https://yeonyeon.tistory.com/197)|
-|자동차 경주 <br> 2단계|`2022-02-11` ~ `2022-02-21`|[repository 2](https://bit.ly/40TwjV4)|[pull request 2](https://bit.ly/3XwibOw)|\\<!--[learning log 2]()-->미작성|
-|자동차 경주 <br> 1단계|`2022-02-09` ~ `2022-02-11`|[repository 1](https://bit.ly/40TwjV4)|[pull request 1](https://bit.ly/3XyBHtE)|\\<!--[learning log 2]()-->미작성|
+|사다리 게임 <br> 1단계|`2022-02-14` ~ `2022-02-16`|[repository 1](https://bit.ly/3lJUiWp)|[pull request 1](https://bit.ly/3lyzQrw)|\\<!--[learning log 2]()-->미작성|
+|자동차 경주 <br> 2단계|`2022-02-10` ~ `2022-02-13`|[repository 2](https://bit.ly/40TwjV4)|[pull request 2](https://bit.ly/3XwibOw)|\\<!--[learning log 2]()-->미작성|
+|자동차 경주 <br> 1단계|`2022-02-07` ~ `2022-02-09`|[repository 1](https://bit.ly/40TwjV4)|[pull request 1](https://bit.ly/3XyBHtE)|\\<!--[learning log 2]()-->미작성|
 
 <br>
 
