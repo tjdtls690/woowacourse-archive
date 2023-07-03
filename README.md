@@ -4,7 +4,7 @@
 
 | Project | Period | Repository | Pull Request & Review | Learning Log |
 |:-----:|:-----:|:---:|:---:|:---:|
-|쇼핑 주문 (협업) <br> 3,4단계|`2022-05-26` ~ `2022-06-05`|[repository 2](https://bit.ly/45tZ8JW)|||
+|쇼핑 주문 (협업) <br> 3,4단계|`2022-05-26` ~ `2022-06-05`|[repository 2](https://bit.ly/45tZ8JW)|[pull request 2](https://bit.ly/3XDx2bu)||
 |쇼핑 주문 (협업) <br> 1,2단계|`2022-05-23` ~ `2022-05-25`|[repository 1](https://bit.ly/45tZ8JW)|||
 |지하철 <br> 2단계|`2022-05-12` ~ `2022-05-22`|[repository 2](https://bit.ly/437wfSa)|[pull request 2](https://bit.ly/3MYfLXa)|[learning log](https://bit.ly/43p945x)|
 |지하철 <br> 1단계|`2022-05-09` ~ `2022-05-11`|[repository 1](https://bit.ly/437wfSa)|[pull request 1](https://bit.ly/438Jylq)||
