@@ -17,16 +17,16 @@
 
 ## 📙 Level 1
 
-| Project | Period | Repository | Pull Request & Review | Learning Log |
-|:-----:|:-----:|:---:|:---:|:---:|
-|체스 <br> 3,4단계|`2022-03-17` ~ `2022-03-27`|[repository 2](https://bit.ly/3OzbzhD)|[pull request 2](https://bit.ly/4254OY6)||
-|체스 <br> 1,2단계|`2022-03-14` ~ `2022-03-16`|[repository 1](https://bit.ly/3OzbzhD)|[pull request 1](https://bit.ly/43kC1Q6)||
-|블랙잭 <br> 2단계|`2022-03-04` ~ `2022-03-13`|[repository 2](https://bit.ly/45mOjcD)|[pull request 2](https://bit.ly/3BNjZds)||
-|블랙잭 <br> 1단계|`2022-02-28` ~ `2022-03-03`|[repository 1](https://bit.ly/45mOjcD)|[pull request 1](https://bit.ly/3MQ4PdO)||
-|사다리 게임 <br> 2단계|`2022-02-17` ~ `2022-02-27`|[repository 2](https://bit.ly/3lJUiWp)|[pull request 2](https://bit.ly/3SKEorp)||
-|사다리 게임 <br> 1단계|`2022-02-14` ~ `2022-02-16`|[repository 1](https://bit.ly/3lJUiWp)|[pull request 1](https://bit.ly/3lyzQrw)||
-|자동차 경주 <br> 2단계|`2022-02-10` ~ `2022-02-13`|[repository 2](https://bit.ly/40TwjV4)|[pull request 2](https://bit.ly/3XwibOw)||
-|자동차 경주 <br> 1단계|`2022-02-07` ~ `2022-02-09`|[repository 1](https://bit.ly/40TwjV4)|[pull request 1](https://bit.ly/3XyBHtE)||
+| Project | Period | Repository | Pull Request & Review |
+|:-----:|:-----:|:---:|:---:|
+|체스 <br> 3,4단계|`2022-03-17` ~ `2022-03-27`|[repository 2](https://bit.ly/3OzbzhD)|[pull request 2](https://bit.ly/4254OY6)|
+|체스 <br> 1,2단계|`2022-03-14` ~ `2022-03-16`|[repository 1](https://bit.ly/3OzbzhD)|[pull request 1](https://bit.ly/43kC1Q6)|
+|블랙잭 <br> 2단계|`2022-03-04` ~ `2022-03-13`|[repository 2](https://bit.ly/45mOjcD)|[pull request 2](https://bit.ly/3BNjZds)|
+|블랙잭 <br> 1단계|`2022-02-28` ~ `2022-03-03`|[repository 1](https://bit.ly/45mOjcD)|[pull request 1](https://bit.ly/3MQ4PdO)|
+|사다리 게임 <br> 2단계|`2022-02-17` ~ `2022-02-27`|[repository 2](https://bit.ly/3lJUiWp)|[pull request 2](https://bit.ly/3SKEorp)|
+|사다리 게임 <br> 1단계|`2022-02-14` ~ `2022-02-16`|[repository 1](https://bit.ly/3lJUiWp)|[pull request 1](https://bit.ly/3lyzQrw)|
+|자동차 경주 <br> 2단계|`2022-02-10` ~ `2022-02-13`|[repository 2](https://bit.ly/40TwjV4)|[pull request 2](https://bit.ly/3XwibOw)|
+|자동차 경주 <br> 1단계|`2022-02-07` ~ `2022-02-09`|[repository 1](https://bit.ly/40TwjV4)|[pull request 1](https://bit.ly/3XyBHtE)|
 
 <br>
 
