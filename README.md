@@ -1,5 +1,17 @@
 # 📚 아벨의 우아한테크코스 5기 기록 레포지토리
 
+## 📓 Level 3 & 4 (Team Project)
+> 다 함께, 즐겁게, 심플하게! 투표 서비스 ```VoTogether``` 프로젝트 진행
+> 
+> [GitHub 바로가기](https://github.com/woowacourse-teams/2023-votogether)
+
+| Project Learning Log |
+|:-----|
+|[1. [Mysql, Querydsl] 반정규화를 통한 조회 성능 개선 (트래픽 부하 테스트)](https://bit.ly/46UFWoR)|
+|[2. [Mysql, Querydsl] 커버링 인덱스와 서브쿼리 추출을 통한 조회 성능 개선 (트래픽 부하 테스트)](https://bit.ly/3Mx07RL)|
+
+<br>
+
 ## 📘 Level 4
 
 | Project | Period | Repository | Pull Request & Review |
