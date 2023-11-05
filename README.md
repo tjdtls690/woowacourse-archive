@@ -1,5 +1,25 @@
 # 📚 아벨의 우아한테크코스 5기 기록 레포지토리
 
+## 📘 Level 4
+
+| Project | Period | Repository | Pull Request & Review |
+|:-----:|:-----:|:---:|:---:|:---:|
+|레거시 코드 리팩터링 <br> 4단계|`2022-10-27` ~ `2022-10-28`|[repository 4](https://github.com/tjdtls690/jwp-refactoring/tree/tjdtls690)|[pull request 4](https://github.com/woowacourse/jwp-refactoring/pull/726)|
+|레거시 코드 리팩터링 <br> 3단계|`2022-10-25` ~ `2022-10-26`|[repository 3](https://github.com/tjdtls690/jwp-refactoring/tree/tjdtls690)|[pull request 3](https://github.com/woowacourse/jwp-refactoring/pull/674)|
+|레거시 코드 리팩터링 <br> 2단계|`2022-10-13` ~ `2022-10-25`|[repository 2](https://github.com/tjdtls690/jwp-refactoring/tree/tjdtls690)|[pull request 2](https://github.com/woowacourse/jwp-refactoring/pull/625)|
+|레거시 코드 리팩터링 <br> 1단계|`2022-10-10` ~ `2022-10-12`|[repository 1](https://github.com/tjdtls690/jwp-refactoring/tree/tjdtls690)|[pull request 1](https://github.com/woowacourse/jwp-refactoring/pull/517)|
+|JDBC 라이브러리 구현하기 <br> 4단계|`2022-10-08` ~ `2022-10-09`|[repository 4](https://github.com/tjdtls690/jwp-dashboard-jdbc/tree/tjdtls690)|[pull request 4](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/536)|
+|JDBC 라이브러리 구현하기 <br> 3단계|`2022-10-06` ~ `2022-10-07`|[repository 3](https://github.com/tjdtls690/jwp-dashboard-jdbc/tree/tjdtls690)|[pull request 3](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/456)|
+|JDBC 라이브러리 구현하기 <br> 2단계|`2022-10-03` ~ `2022-10-06`|[repository 2](https://github.com/tjdtls690/jwp-dashboard-jdbc/tree/tjdtls690)|[pull request 2](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/386)|
+|JDBC 라이브러리 구현하기 <br> 1단계|`2022-09-26` ~ `2022-10-02`|[repository 1](https://github.com/tjdtls690/jwp-dashboard-jdbc/tree/tjdtls690)|[pull request 1](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/329)|
+|MVC 구현하기 <br> 3단계|`2022-09-24` ~ `2022-09-25`|[repository 3](https://github.com/tjdtls690/jwp-dashboard-mvc/tree/tjdtls690)|[pull request 3](https://github.com/woowacourse/jwp-dashboard-mvc/pull/608)|
+|MVC 구현하기 <br> 2단계|`2022-09-15` ~ `2022-09-23`|[repository 2](https://github.com/tjdtls690/jwp-dashboard-mvc/tree/tjdtls690)|[pull request 2](https://github.com/woowacourse/jwp-dashboard-mvc/pull/463)|
+|MVC 구현하기 <br> 1단계|`2022-09-12` ~ `2022-09-14`|[repository 1](https://github.com/tjdtls690/jwp-dashboard-mvc/tree/tjdtls690)|[pull request 1](https://github.com/woowacourse/jwp-dashboard-mvc/pull/417)|
+|Tomcat 구현하기 <br> 3, 4단계|`2022-09-05` ~ `2022-09-11`|[repository 2](https://github.com/tjdtls690/jwp-dashboard-http/tree/tjdtls690)|[pull request 2](https://github.com/woowacourse/jwp-dashboard-http/pull/461)|
+|Tomcat 구현하기 <br> 1, 2단계|`2022-08-31` ~ `2022-09-04`|[repository 1](https://github.com/tjdtls690/jwp-dashboard-http/tree/tjdtls690)|[pull request 1](https://github.com/woowacourse/jwp-dashboard-http/pull/381)|
+
+<br>
+
 ## 📗 Level 2
 
 | Project | Period | Repository | Pull Request & Review | Learning Log |
