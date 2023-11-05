@@ -3,7 +3,7 @@
 ## 📘 Level 4
 
 | Project | Period | Repository | Pull Request & Review |
-|:-----:|:-----:|:---:|:---:|:---:|
+|:-----:|:-----:|:---:|:---:|
 |레거시 코드 리팩터링 <br> 4단계|`2022-10-27` ~ `2022-10-28`|[repository 4](https://github.com/tjdtls690/jwp-refactoring/tree/tjdtls690)|[pull request 4](https://github.com/woowacourse/jwp-refactoring/pull/726)|
 |레거시 코드 리팩터링 <br> 3단계|`2022-10-25` ~ `2022-10-26`|[repository 3](https://github.com/tjdtls690/jwp-refactoring/tree/tjdtls690)|[pull request 3](https://github.com/woowacourse/jwp-refactoring/pull/674)|
 |레거시 코드 리팩터링 <br> 2단계|`2022-10-13` ~ `2022-10-25`|[repository 2](https://github.com/tjdtls690/jwp-refactoring/tree/tjdtls690)|[pull request 2](https://github.com/woowacourse/jwp-refactoring/pull/625)|
