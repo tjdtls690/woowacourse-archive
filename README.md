@@ -68,9 +68,9 @@
 <br>
 
 ## 📒 Precourse - Final
-| Project | Period | Repository | Pull Request | Learning Log |
+| Project | Period | Repository | Pull Request | Memoir |
 |:---:|:---:|:---:|:---:|:---:|
-|점심 메뉴 추천|`2022-12-17 13:00 ~ 18:00`|[repository](https://bit.ly/3oshri5)|[pull request](https://bit.ly/3OFqTt4)|[learning log](https://bit.ly/3MWeY95)|
+|점심 메뉴 추천|`2022-12-17 13:00 ~ 18:00`|[repository](https://bit.ly/3oshri5)|[pull request](https://bit.ly/3OFqTt4)|[memoir](https://bit.ly/3MWeY95)|
 
 <br>
 
