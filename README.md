@@ -2,7 +2,9 @@
 
 ## 📓 Level 3 & 4 (Team Project)
 > 다 함께, 즐겁게, 심플하게! 투표 서비스 ```VoTogether``` 프로젝트 진행
-> 
+>
+> [VoTogether 사이트 바로가기](https://bit.ly/46Tun1o)
+>
 > [GitHub 바로가기](https://github.com/woowacourse-teams/2023-votogether)
 
 | Project Learning Log |
