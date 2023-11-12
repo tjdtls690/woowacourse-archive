@@ -5,7 +5,7 @@
 >
 > [VoTogether 사이트 바로가기](https://bit.ly/46Tun1o)
 >
-> [GitHub 바로가기](https://github.com/woowacourse-teams/2023-votogether)
+> [VoTogether GitHub Repository 바로가기](https://github.com/woowacourse-teams/2023-votogether)
 
 | Project Learning Log |
 |:-----|
