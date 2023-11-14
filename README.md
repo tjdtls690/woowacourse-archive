@@ -12,7 +12,7 @@
 |[1. [Mysql, Querydsl] 반정규화를 통한 조회 성능 개선 (트래픽 부하 테스트)](https://bit.ly/46UFWoR)|
 |[2. [Mysql, Querydsl] 커버링 인덱스와 서브쿼리 추출을 통한 조회 성능 개선 (트래픽 부하 테스트)](https://bit.ly/3Mx07RL)|
 |[3. [Mysql, JPA] 동시성 이슈 해결 (Syncronized, 낙관적 락, 비관적 락)](https://bit.ly/40r8xjm)|
-|[4. [Mysql, Java] 데드락 이슈 해결](https://bit.ly/46sZzDP)|
+|[4. [Mysql, Java] 데드락 이슈 해결](https://tjdtls690.github.io/studycontents/java/2023-11-14-deadlock_issues/)|
 
 <br>
 
